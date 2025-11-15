@@ -30,7 +30,7 @@ This structured model enabled realistic, industry-standard SaaS KPIs.
 - **Payment History & Status Codes**  
 
 ### 📊 SaaDash Dashboard Overview  
-![SaaDash Dashboard](YOUR-IMAGE-LINK-HERE)
+![SaaDash Dashboard]((https://github.com/YSayaovong/saas-dashboard/blob/main/assets/dashboard.PNG))
 
 The dashboard gives stakeholders a unified, transparent view of subscription performance and real-time business health.
 
