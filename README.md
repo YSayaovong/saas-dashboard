@@ -30,7 +30,7 @@ This structured model enabled realistic, industry-standard SaaS KPIs.
 - **Payment History & Status Codes**  
 
 ### 📊 SaaDash Dashboard Overview  
-![SaaDash Dashboard]((https://github.com/YSayaovong/saas-dashboard/blob/main/assets/dashboard.PNG))
+![SaaDash Dashboard](https://github.com/YSayaovong/saas-dashboard/blob/main/assets/dashboard.PNG)
 
 The dashboard gives stakeholders a unified, transparent view of subscription performance and real-time business health.
 
@@ -71,7 +71,7 @@ To improve usability and presentation, the dashboard includes:
 
 - **Dark/Light mode toggle**  
 - **Responsive layout** for desktop + mobile  
-- Clean sidebar navigation (Dashboard, Customers, Settings)  
+- **Sidebar navigation** with Dashboard, Customers, and Settings  
 - Consistent spacing, typography, and component styling  
 - Reusable card components for KPIs  
 
@@ -109,7 +109,7 @@ If implemented in a real production environment, this dashboard would:
 - React (Vite)  
 - React Router DOM  
 - CSS Modules / Custom Styles  
-- Chart.js or Recharts (for trend charts)  
+- Chart.js or Recharts  
 - Git / GitHub  
 - Vercel Deployment  
 
